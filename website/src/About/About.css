@@ -1,0 +1,40 @@
+.container{
+    width:85%;
+    margin:auto;
+}
+.about{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: Karla,sans-serif;
+    
+}
+.about-img{
+    width:49%;
+}
+.about-p{
+    width:49%;
+}
+.about-img img{
+    width:100%;
+}
+.about-section{
+    display: flex;
+    justify-content: space-between;
+}
+.about-p p{
+    color: #9dca00
+}
+.natural{
+    border-bottom: 1px solid #eee5e5;
+}
+.natural p{
+    color:#61657a;
+    line-height: 1.5;
+}
+.wheat p{
+    color:#61657a;
+    line-height: 1.5;
+}
+.about-p h1{
+    font-size: 43px;
+}
